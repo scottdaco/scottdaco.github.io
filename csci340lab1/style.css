@@ -1,0 +1,58 @@
+
+h1 {
+  font-family: "open sans";
+	text-align: center;
+}
+
+
+.image {
+	margin: 5px;
+}
+
+
+.container{
+  display: flex;
+}
+
+.images{
+	background-color: grey;
+    max-width: 0%;
+    min-width: 210px;
+}
+
+.n {
+  font-family: "open sans";
+  text-align: center;
+  font-size: 35px;
+}
+
+.title {
+  padding: 15px;
+  font-family: "open sans";
+  background-color: grey;
+  text-align: center;
+}
+
+li {
+   font-size: 25px;
+    padding: 25px;
+}
+
+.instructions {
+  font-family: "open sans";
+	padding: 30px;
+  min-width: 10%;
+  font-size: 30px;
+  background-color: lightgrey;
+}
+
+.b {
+  background-color: black;
+  height: 1000px;
+}
+
+.s {
+  background-color: black;
+  height: 10px;
+}
+

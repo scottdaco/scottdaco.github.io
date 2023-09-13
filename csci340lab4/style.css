@@ -1,0 +1,88 @@
+
+
+
+
+.title {
+
+}
+
+body {
+    font-family: Bitter;
+    text-align: center;
+    background-image: url('stove.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+div {
+    background-color: orange;
+    margin: 10px;
+    max-width: 100%;
+    min-width: 75%;
+    padding: 10px;
+}
+
+
+#n {
+    font-size: 25px;
+}
+
+
+.objlist {
+    float: left;
+        max-width: 50%;
+    min-width: 25%;
+    font-size: 25px;
+}
+
+.obj {
+    max-width: 45%;
+    min-width: 35%;
+    margin: 100px;
+        margin-top: 1px;
+    padding: 100px;
+    float: right;
+}
+
+
+
+#img {
+    width: 200px;
+}
+
+
+
+
+.imgd {
+    background-color: orange;
+    overflow: hidden;
+  /*  max-width: 100%;
+    min-width: 25%;*/
+     margin-left: 160px;
+    margin-right: 160px;
+    height: 350px;
+/*        float: left;
+            display: inline-block;*/
+}
+
+
+.ap {
+        width: 200px;
+    height: 200px;
+    margin: 75px;
+}
+
+
+.apg {
+        display: inline-block;
+    margin: 10px;
+    width: 800px;
+    height: 800px;
+}
+
+
+.ih {
+/*     float: left; */
+}
+
